@@ -5,3 +5,14 @@
 
 
 > Apache will search an *index.php* in *./public*
+
+Folder structure example:
+
+    .
+    ├── ...
+    ├── src      
+    │   ├── App.php
+    │   └── ...
+    ├── public   
+    │   └── index.php  
+    └── ...
